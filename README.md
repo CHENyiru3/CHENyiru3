@@ -2,6 +2,6 @@
 
 A student in ZJU-UoE, learning bioinformatics now.
 
-Python, Java, R, SQL (continue +)
+Python (Main language), Java, R, SQL, JavaScript, Latex, Shell(continue +)
 
 
