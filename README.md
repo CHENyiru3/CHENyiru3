@@ -1,5 +1,5 @@
 ### Hello!
-I am a undergradaute student in bioinformatics filed.
+I am an undergradaute student in bioinformatics filed. For more information you are highly welcomed to check my personal academic page: https://chenyiru3.github.io/
 
 Python (Main language), Java, R, SQL, JavaScript, Latex, Shell(continue +)
 
