@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yiru Chen（陈奕儒） | v2026.04.05
 
-### 🧬 Incoming PhD Student @ Duke-NUS, QBM Program (Fall 2026)
+### 🧬 Incoming PhD Student @ Duke-NUS Medicine School, QBM Program (Fall 2026)
 **Decoding biomedical complexity through the lens of AI and algorithms.**
 
 ---
