@@ -24,3 +24,5 @@
 - **Academic:** [yiru.22@intl.zju.edu.cn](mailto:yiru.22@intl.zju.edu.cn)
 
 *"Keep on keeping on!"*
+
+![Yiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
