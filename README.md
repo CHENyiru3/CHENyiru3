@@ -1,13 +1,26 @@
-# 👋 Hi, I'm Yiru Chen version 2026.04.05
+# 👋 Hi, I'm Yiru Chen | v2026.04.05
 
-### 🧬 Incoming 26fall PhD Student @Duke-NUS, QBM Program
-**Striving to decode biomedical complexity through the lens of AI and algorithms.**
+### 🧬 Incoming PhD Student @ Duke-NUS, QBM Program (Fall 2026)
+**Decoding biomedical complexity through the lens of AI and algorithms.**
 
-* **Current Focus:** Spatial Omics, Deep Learning for Single-cell Analysis, representive learning of multi omics, and general interesting in AI for Science (biomedicine).
-* **Alumna:** Zhejiang University-University of Edinburgh Institute (ZJU-UoE).
-  
 ---
 
-### 🌐 Connect & Explore
+### 🔍 Research Interests & Focus
+* **Spatial Omics & Single-cell Analysis:** Developing deep learning frameworks to uncover spatial patterns.
+* **Representation Learning:** Multi-omics integration and latent space modeling.
+* **AI for Science:** Leveraging machine learning to accelerate biomedical discovery.
+* **Alumna:** B.S. in Bioinformatics @ **ZJU-UoE Institute** (Zhejiang University & University of Edinburgh).
+
+---
+
+### 🌐 Digital Footprints
 * [**Personal Academic Page**](https://chenyiru3.github.io/) - Publications, Projects & CV.
-* [**Course Projects Portfolio**](https://github.com/AnonymityICAuser) - A collection of my undergraduate in-course footprints. Just in case I forget about these interesting repo!
+* [**Course Projects Portfolio**](https://github.com/AnonymityICAuser) - A curated archive of my undergraduate academic journey (to keep the memories alive! 🧠). May also use this to submit mini project works.
+
+---
+
+### 📫 Get in Touch
+- **Personal/Working:** [yiru2chen@gmail.com](mailto:yiru2chen@gmail.com)
+- **Academic:** [yiru.22@intl.zju.edu.cn](mailto:yiru.22@intl.zju.edu.cn)
+
+*"Keep on keeping going!"*
