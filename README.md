@@ -25,4 +25,4 @@
 
 *"Keep on keeping on!"*
 
-![Yiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Yiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHENyiru3&show_icons=true&theme=radical)
