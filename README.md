@@ -15,8 +15,7 @@
 
 ### 🌐 Digital Footprints
 * [**Personal Academic Page**](https://chenyiru3.github.io/) - Publications, Projects & CV.
-* [**Course Projects Portfolio**](https://github.com/AnonymityICAuser) - A curated archive of my undergraduate academic journey (to keep the memories alive! 🧠). May also use this to submit mini project works.
-
+* [**Awesome List Besides Academia**](https://github.com/CHENyiru3/awesome_yiru) - A curated archive of useful and interesting things beyond academia projects.
 ---
 
 ### 📫 Get in Touch
