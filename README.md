@@ -12,7 +12,7 @@ B.S. in Bioinformatics @University of Edinburgh
 ---
 
 ### 📫 Get in Touch
-- **Personal/Working:** [yiru2chen@gmail.com](mailto:yiru2chen@gmail.com)
+- **Personal:** [yiru2chen@gmail.com](mailto:yiru2chen@gmail.com)
 - **Academic:** [yiru.22@intl.zju.edu.cn](mailto:yiru.22@intl.zju.edu.cn) or [yiru_chen@u.duke.nus.edu](mailto:yiru_chen@u.duke.nus.edu)
 
 *"Keep on keeping on!"*
