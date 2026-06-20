@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Yiru Chen（陈奕儒） | v2026.0620
 
 Incoming PhD Student @ Duke-NUS Medicine School, QBM Program (Fall 2026)
+
 B.S. in Bioinformatics @Zhejiang University 
+
 B.S. in Bioinformatics @University of Edinburgh
 
 ### 🌐 Digital Footprints
