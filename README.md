@@ -1,26 +1,17 @@
-# 👋 Hi, I'm Yiru Chen（陈奕儒） | v2026.04.05
+# 👋 Hi, I'm Yiru Chen（陈奕儒） | v2026.0620
 
-### 🧬 Incoming PhD Student @ Duke-NUS Medicine School, QBM Program (Fall 2026)
-**Decoding biomedical complexity through the lens of AI and algorithms.**
-
----
-
-### 🔍 Research Interests & Focus
-* **Spatial Omics & Single-cell Analysis:** Developing deep learning frameworks to uncover spatial patterns.
-* **Representation Learning:** Multi-omics integration and latent space modeling.
-* **AI for Science:** Leveraging machine learning to accelerate biomedical discovery.
-* **Alumna:** B.S. in Bioinformatics @ **ZJU-UoE Institute** (Zhejiang University & University of Edinburgh).
-
----
+Incoming PhD Student @ Duke-NUS Medicine School, QBM Program (Fall 2026)
+B.S. in Bioinformatics @Zhejiang University 
+B.S. in Bioinformatics @University of Edinburgh
 
 ### 🌐 Digital Footprints
-* [**Personal Academic Page**](https://chenyiru3.github.io/) - Publications, Projects & CV.
+* [**Personal Academic Page**](https://chenyiru3.github.io/) - Personal Academic Website
 * [**Awesome List Besides Academia**](https://github.com/CHENyiru3/awesome_yiru) - A curated archive of useful and interesting things beyond academia projects.
 ---
 
 ### 📫 Get in Touch
 - **Personal/Working:** [yiru2chen@gmail.com](mailto:yiru2chen@gmail.com)
-- **Academic:** [yiru.22@intl.zju.edu.cn](mailto:yiru.22@intl.zju.edu.cn)
+- **Academic:** [yiru.22@intl.zju.edu.cn](mailto:yiru.22@intl.zju.edu.cn) or [yiru_chen@u.duke.nus.edu](mailto:yiru_chen@u.duke.nus.edu)
 
 *"Keep on keeping on!"*
 
