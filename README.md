@@ -6,7 +6,7 @@ B.S. in Bioinformatics @Zhejiang University
 
 B.S. in Bioinformatics @University of Edinburgh
 
-[**Personal Academic Page**](https://chenyiru3.github.io/) - Personal Academic Website
+[**Personal Academic Page**](https://chenyiru3.github.io/) - Click here if you want to know more
 ---
 
 ### 📫 Get in Touch
