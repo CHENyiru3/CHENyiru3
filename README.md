@@ -8,7 +8,7 @@ B.S. in Bioinformatics @University of Edinburgh
 
 From China. Exploring the world.
 
-When I need a break from research, I come to here to have fun lol.
+When I need a break from research, I come to here to have fun lol. Contribution to open source projects always makes me happy.
 
 [**Personal Academic Page**](https://chenyiru3.github.io/) - Click here if you want to know more
 ---
