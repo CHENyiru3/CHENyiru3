@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yiru Chen（陈奕儒） | v2026.0816
+# 👋 Hi, I'm Yiru Chen（陈奕儒） | v2026.1110
 
 Current PhD Student @ Duke-NUS Medicine School, QBM Program (Fall 2026)
 
@@ -6,7 +6,7 @@ B.S. in Bioinformatics @Zhejiang University
 
 B.S. in Bioinformatics @University of Edinburgh
 
-From China. Exploring the world.
+From China. Exploring the world. Currently in Singapore.
 
 When I need a break from research, I come to here to have fun lol. Contributing to open source projects always makes me happy.
 
