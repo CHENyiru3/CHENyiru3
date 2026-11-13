@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <img alt="Neofetch profile for Yiru Chen, with an ASCII portrait and GitHub statistics" src="assets/profile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark-66x49.svg">
+  <img alt="Neofetch profile for Yiru Chen, with an ASCII portrait and GitHub statistics" src="assets/profile-light-66x49.svg">
 </picture>
 
 # 👋 Hi, I'm Yiru Chen（陈奕儒） | v2026.1110

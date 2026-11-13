@@ -80,7 +80,7 @@ def render(art, config, stats, dark):
         '<title>Yiru Chen Neofetch profile</title>',
         '<desc>An ASCII portrait beside education, contact details, and public GitHub statistics.</desc>',
         f'<rect x="1" y="1" width="{WIDTH-2}" height="{HEIGHT-2}" rx="14" fill="{bg}" stroke="{border}"/>',
-        '<g font-family="Menlo, Consolas, monospace" xml:space="preserve" font-size="8.1">',
+        '<g font-family="Menlo, Consolas, monospace" xml:space="preserve" font-size="8.8">',
     ]
     for row, line in enumerate(art):
         spans = []
@@ -92,10 +92,10 @@ def render(art, config, stats, dark):
             intensity = (67 + density * 12) if dark else (160 - density * 9)
             color = f"#{intensity:02x}{intensity:02x}{intensity:02x}"
             spans.append(
-                f'<tspan x="{PORTRAIT_X + column * 4.8:.1f}" fill="{color}">{escape(CHARACTERS[density])}</tspan>'
+                f'<tspan x="{PORTRAIT_X + column * 5.24:.1f}" fill="{color}">{escape(CHARACTERS[density])}</tspan>'
             )
         if spans:
-            svg.append(f'<text y="{PORTRAIT_Y + row * 8.35:.2f}">{"".join(spans)}</text>')
+            svg.append(f'<text y="{PORTRAIT_Y + row * 9.05:.2f}">{"".join(spans)}</text>')
 
     svg.extend([
         '</g>',
@@ -144,7 +144,7 @@ def main():
     stats = public_stats()
     for theme in ("light", "dark"):
         svg = render(art, config, stats, dark=theme == "dark")
-        (assets / f"profile-{theme}.svg").write_text(svg, encoding="utf-8")
+        (assets / f"profile-{theme}-66x49.svg").write_text(svg, encoding="utf-8")
 
 
 if __name__ == "__main__":
