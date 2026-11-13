@@ -1,6 +1,4 @@
 {
-  "image": "https://raw.githubusercontent.com/CHENyiru3/CHENyiru3/main/assets/portrait.png",
-  "imageScale": 1.08,
   "sections": [
     {
       "title": "{{username}}@github",
