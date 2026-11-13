@@ -1,0 +1,94 @@
+{
+  "image": "https://raw.githubusercontent.com/CHENyiru3/CHENyiru3/main/assets/portrait.png",
+  "imageScale": 1.08,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        {
+          "key": "Name",
+          "value": "Yiru Chen"
+        },
+        {
+          "key": "Host",
+          "value": "Duke-NUS Medical School"
+        },
+        {
+          "key": "Program",
+          "value": "QBM PhD | Fall 2026"
+        },
+        {
+          "key": "Location",
+          "value": "Singapore"
+        },
+        {
+          "key": "From",
+          "value": "China"
+        }
+      ]
+    },
+    {
+      "title": "- Education",
+      "fields": [
+        {
+          "key": "Degree",
+          "value": "B.S. in Bioinformatics"
+        },
+        {
+          "key": "University",
+          "value": "Zhejiang University"
+        },
+        {
+          "key": "University",
+          "value": "University of Edinburgh"
+        }
+      ]
+    },
+    {
+      "title": "- Interests & Contact",
+      "fields": [
+        {
+          "key": "Off Hours",
+          "value": "Open-source contributions"
+        },
+        {
+          "key": "Academic Page",
+          "value": "chenyiru3.github.io"
+        },
+        {
+          "key": "Personal",
+          "value": "yiru2chen@gmail.com"
+        },
+        {
+          "key": "Academic",
+          "value": "yiru_chen@u.duke.nus.edu"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": {
+          "key": "Public Repos",
+          "value": "{{repos}}"
+        },
+        "right": {
+          "key": "Stars Received",
+          "value": "{{stars}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Followers",
+          "value": "{{followers}}"
+        },
+        "right": {
+          "key": "Following",
+          "value": "{{following}}"
+        }
+      }
+    ]
+  }
+}
