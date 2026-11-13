@@ -12,8 +12,12 @@
           "value": "Duke-NUS Medical School"
         },
         {
+          "key": "Role",
+          "value": "PhD Student | Fall 2026"
+        },
+        {
           "key": "Program",
-          "value": "QBM PhD | Fall 2026"
+          "value": "Quantitative Biology and Medicine"
         },
         {
           "key": "Location",
@@ -29,16 +33,12 @@
       "title": "- Education",
       "fields": [
         {
-          "key": "Degree",
-          "value": "B.S. in Bioinformatics"
+          "key": "BS @ Zhejiang University",
+          "value": "Bioinformatics"
         },
         {
-          "key": "University",
-          "value": "Zhejiang University"
-        },
-        {
-          "key": "University",
-          "value": "University of Edinburgh"
+          "key": "BS @ University of Edinburgh",
+          "value": "Bioinformatics"
         }
       ]
     },
@@ -79,12 +79,12 @@
       },
       {
         "left": {
-          "key": "Followers",
-          "value": "{{followers}}"
+          "key": "Public PRs",
+          "value": "{{public_prs}}"
         },
         "right": {
-          "key": "Following",
-          "value": "{{following}}"
+          "key": "Public Issues",
+          "value": "{{public_issues}}"
         }
       }
     ]

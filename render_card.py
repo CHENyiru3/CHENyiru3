@@ -4,6 +4,7 @@ from html import escape
 import json
 import os
 from pathlib import Path
+from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 
@@ -38,12 +39,19 @@ def public_stats():
         if len(repositories) < 100:
             break
         page += 1
+    contributions = {}
+    for field, kind in (("public_prs", "pr"), ("public_issues", "issue")):
+        query = urlencode({"q": f"author:{OWNER} is:{kind} is:public", "per_page": 1})
+        result = github_json(f"/search/issues?{query}")
+        if result["incomplete_results"]:
+            raise RuntimeError(f"GitHub returned incomplete results for {kind}")
+        contributions[field] = result["total_count"]
+
     return {
         "username": user["login"],
         "repos": user["public_repos"],
         "stars": stars,
-        "followers": user["followers"],
-        "following": user["following"],
+        **contributions,
     }
 
 

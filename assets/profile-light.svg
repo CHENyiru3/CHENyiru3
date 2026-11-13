@@ -66,26 +66,26 @@
 <path d="M 460 88 H 726" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
 <text x="401" y="92" fill="#914006">Host:</text>
 <text x="966" y="92" fill="#133b68" text-anchor="end">Duke-NUS Medical School</text>
-<path d="M 490 110 H 766" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
-<text x="401" y="114" fill="#914006">Program:</text>
-<text x="966" y="114" fill="#133b68" text-anchor="end">QBM PhD | Fall 2026</text>
-<path d="M 500 132 H 867" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
-<text x="401" y="136" fill="#914006">Location:</text>
-<text x="966" y="136" fill="#133b68" text-anchor="end">Singapore</text>
-<path d="M 460 154 H 908" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
-<text x="401" y="158" fill="#914006">From:</text>
-<text x="966" y="158" fill="#133b68" text-anchor="end">China</text>
-<text x="401" y="190" fill="#222d39" font-weight="bold">- Education</text>
-<path d="M 528 185 H 966" stroke="#d8dfe6"/>
-<path d="M 480 208 H 736" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
-<text x="401" y="212" fill="#914006">Degree:</text>
-<text x="966" y="212" fill="#133b68" text-anchor="end">B.S. in Bioinformatics</text>
-<path d="M 520 230 H 766" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
-<text x="401" y="234" fill="#914006">University:</text>
-<text x="966" y="234" fill="#133b68" text-anchor="end">Zhejiang University</text>
-<path d="M 520 252 H 726" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
-<text x="401" y="256" fill="#914006">University:</text>
-<text x="966" y="256" fill="#133b68" text-anchor="end">University of Edinburgh</text>
+<path d="M 460 110 H 726" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
+<text x="401" y="114" fill="#914006">Role:</text>
+<text x="966" y="114" fill="#133b68" text-anchor="end">PhD Student | Fall 2026</text>
+<path d="M 490 132 H 625" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
+<text x="401" y="136" fill="#914006">Program:</text>
+<text x="966" y="136" fill="#133b68" text-anchor="end">Quantitative Biology and Medicine</text>
+<path d="M 500 154 H 867" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
+<text x="401" y="158" fill="#914006">Location:</text>
+<text x="966" y="158" fill="#133b68" text-anchor="end">Singapore</text>
+<path d="M 460 176 H 908" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
+<text x="401" y="180" fill="#914006">From:</text>
+<text x="966" y="180" fill="#133b68" text-anchor="end">China</text>
+<text x="401" y="212" fill="#222d39" font-weight="bold">- Education</text>
+<path d="M 528 207 H 966" stroke="#d8dfe6"/>
+<path d="M 662 230 H 817" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
+<text x="401" y="234" fill="#914006">BS @ Zhejiang University:</text>
+<text x="966" y="234" fill="#133b68" text-anchor="end">Bioinformatics</text>
+<path d="M 702 252 H 817" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
+<text x="401" y="256" fill="#914006">BS @ University of Edinburgh:</text>
+<text x="966" y="256" fill="#133b68" text-anchor="end">Bioinformatics</text>
 <text x="401" y="288" fill="#222d39" font-weight="bold">- Interests &amp; Contact</text>
 <path d="M 629 283 H 966" stroke="#d8dfe6"/>
 <path d="M 510 306 H 706" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
@@ -109,12 +109,12 @@
 <path d="M 854 426 H 938" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
 <text x="695" y="430" fill="#914006">Stars Received:</text>
 <text x="966" y="430" fill="#133b68" text-anchor="end">24</text>
-<path d="M 510 448 H 625" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
-<text x="401" y="452" fill="#914006">Followers:</text>
-<text x="653" y="452" fill="#133b68" text-anchor="end">12</text>
+<path d="M 520 448 H 625" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
+<text x="401" y="452" fill="#914006">Public PRs:</text>
+<text x="653" y="452" fill="#133b68" text-anchor="end">45</text>
 <text x="672" y="452" fill="#a0aebb">|</text>
-<path d="M 804 448 H 948" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
-<text x="695" y="452" fill="#914006">Following:</text>
-<text x="966" y="452" fill="#133b68" text-anchor="end">5</text>
+<path d="M 844 448 H 948" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
+<text x="695" y="452" fill="#914006">Public Issues:</text>
+<text x="966" y="452" fill="#133b68" text-anchor="end">8</text>
 </g>
 </svg>
