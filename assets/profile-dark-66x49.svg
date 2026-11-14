@@ -100,7 +100,7 @@
 <path d="M 558 403 H 966" stroke="#303942"/>
 <path d="M 540 426 H 625" stroke="#58677a" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
 <text x="401" y="430" fill="#ffac67">Public Repos:</text>
-<text x="653" y="430" fill="#badbff" text-anchor="end">44</text>
+<text x="653" y="430" fill="#badbff" text-anchor="end">45</text>
 <text x="672" y="430" fill="#58677a">|</text>
 <path d="M 854 426 H 938" stroke="#58677a" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
 <text x="695" y="430" fill="#ffac67">Stars Received:</text>
