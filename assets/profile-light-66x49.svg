@@ -104,7 +104,7 @@
 <text x="672" y="430" fill="#a0aebb">|</text>
 <path d="M 854 426 H 938" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
 <text x="695" y="430" fill="#914006">Stars Received:</text>
-<text x="966" y="430" fill="#133b68" text-anchor="end">30</text>
+<text x="966" y="430" fill="#133b68" text-anchor="end">31</text>
 <path d="M 520 448 H 625" stroke="#a0aebb" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
 <text x="401" y="452" fill="#914006">Public PRs:</text>
 <text x="653" y="452" fill="#133b68" text-anchor="end">39</text>
