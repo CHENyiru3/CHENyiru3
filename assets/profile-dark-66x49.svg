@@ -107,7 +107,7 @@
 <text x="966" y="430" fill="#badbff" text-anchor="end">31</text>
 <path d="M 520 448 H 625" stroke="#58677a" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
 <text x="401" y="452" fill="#ffac67">Public PRs:</text>
-<text x="653" y="452" fill="#badbff" text-anchor="end">39</text>
+<text x="653" y="452" fill="#badbff" text-anchor="end">41</text>
 <text x="672" y="452" fill="#58677a">|</text>
 <path d="M 844 448 H 948" stroke="#58677a" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="0 6"/>
 <text x="695" y="452" fill="#ffac67">Public Issues:</text>
